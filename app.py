@@ -7,7 +7,7 @@ st.set_page_config(page_title="1Nikolux & Lifestar Pro", layout="wide")
 st.title("📊 Nikolux & Lifestar Business Manager")
 
 # यहाँ अपनी Google Sheet का लिंक पेस्ट करें
-SHEET_URL = ""https://docs.google.com/spreadsheets/d/1ANOn_qnm6RHPZBxKQo5uhBzMfRtAs4e7sdSib-09aXs/edit?usp=drivesdk
+SHEET_URL = "https://docs.google.com/spreadsheets/d/1ANOn_qnm6RHPZBxKQo5uhBzMfRtAs4e7sdSib-09aXs/edit?usp=drivesdk"
 
 # कनेक्शन बनाना
 try:
