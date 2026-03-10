@@ -32,4 +32,5 @@ try:
 
 except Exception as e:
     st.error("कनेक्शन एरर: कृपया Google Sheet का लिंक चेक करें और उसे Public (Editor) करें।")
+
     
